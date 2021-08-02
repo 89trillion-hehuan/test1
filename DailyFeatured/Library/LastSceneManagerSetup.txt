@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/DailyFeatured/01.Scenes/Gamestart.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

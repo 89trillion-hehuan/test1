@@ -10,7 +10,7 @@
 
 
 ## **2.目录结构**
-![image](https://github.com/89trillion-hongxiaobo/89trillion-Testdocument/blob/main/READMEIMG/test1.tree.png)
+![image](https://github.com/89trillion-hongxiaobo/test1/blob/master/READMEIMG/test1.tree.png)
 
 ## 3.界面拆分
 
@@ -42,7 +42,7 @@
 
 ## 4.流程图
 
-​       ![Untitled Diagram](https://github.com/89trillion-hongxiaobo/89trillion-Testdocument/blob/main/READMEIMG/Untitled%20Diagram.png)
+​       ![Untitled Diagram](https://github.com/89trillion-hongxiaobo/test1/blob/master/READMEIMG/Untitled%20Diagram.png)
 
 ## 5.第三方库
 
